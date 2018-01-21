@@ -8,3 +8,5 @@
 * [交大校车时刻表+地图](https://github.com/zry656565/SJTU-Bus)
 * [本科教学信息服务网优化插件](https://github.com/laohyx/electsys)
 * [上海交通大学校徽](https://github.com/weijianwen/SJTU-logo-banner)
+* [SJTU Online Judge](https://github.com/stfairy/oj)
+* [ACM-ICPC 板子-2016](https://github.com/FTRobbin/Dreadnought-Standard-Code-Library)
