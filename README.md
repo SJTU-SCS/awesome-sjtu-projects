@@ -10,3 +10,4 @@
 * [上海交通大学校徽](https://github.com/weijianwen/SJTU-logo-banner)
 * [SJTU Online Judge](https://github.com/stfairy/oj)
 * [ACM-ICPC 板子-2016](https://github.com/FTRobbin/Dreadnought-Standard-Code-Library)
+* [本科教学信息网新通知自动提示工具](https://github.com/phyank/jwcViewer)
